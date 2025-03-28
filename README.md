@@ -99,5 +99,5 @@ Sou Desenvolvedora Front-end apaixonada por criar interfaces interativas e acess
 
 </p>
 
-          
+<img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/>
           
