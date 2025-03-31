@@ -1,8 +1,8 @@
-## Olá,eu sou Maria Eduarda 👩🏻‍💻
+## Olá, eu sou Maria Eduarda 👩🏻‍💻
 
-**`desenvolvedora front-end`**
+**`Desenvolvedora front-end`**
 
-Sou Desenvolvedora Front-end apaixonada por criar interfaces interativas e acessíveis. Gosto de transformar ideias em experiências digitais fluidas, combinando design e código para oferecer a melhor usabilidade. Trabalho com HTML, CSS, JavaScript e framework como React.js, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
+Sou Desenvolvedora Front-end, apaixonada por criar interfaces interativas e acessíveis. Gosto de transformar ideias em experiências digitais fluidas, combinando design e código para oferecer a melhor usabilidade. Trabalho com HTML, CSS, JavaScript e framework como React.js, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
 ### 🤖 Linguagens e Tecnologias
 
